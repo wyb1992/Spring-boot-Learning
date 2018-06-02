@@ -1,6 +1,3 @@
-# spring-boot-with-jwts
-Spring Security结合JWT保护你的Spring Boot应用的Demo。
+# spring-boot-learning
 
-# 参考资源
-1. [securing-spring-boot-with-jwts](https://auth0.com/blog/securing-spring-boot-with-jwts/)
-1. [jwt](http://www.jwt.io/)
+在学习spring boot的过程中写的一些demo，希望对你有帮助^_^
